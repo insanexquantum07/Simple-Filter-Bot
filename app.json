@@ -1,5 +1,5 @@
 {
-    "name": "VJ-FILTER-BOT",
+    "name": "Simple-Filter-Bot",
     "description": "This is auto filter bot with many advanced features.",
     "stack": "container",
     "keywords": [
@@ -15,8 +15,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/VJBots/VJ-FILTER-BOT",
-    "repository": "https://github.com/VJBots/VJ-FILTER-BOT",
+    "website": "https://github.com/insanexquantum07/Simple-Filter-Bot",
+    "repository": "https://github.com/insanexquantum07/Simple-Filter-Bot",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
@@ -75,7 +75,7 @@
     "formation": {
         "worker": {
             "quantity": 1,
-            "size": "eco"
+            "size": "free"
         }
     }
 }
