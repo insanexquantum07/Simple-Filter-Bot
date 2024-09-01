@@ -1072,6 +1072,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
     except:
         pass
     if query.data == "close_data":
+        await query.answer("ᴛʜᴀɴᴋs ꜰᴏʀ ᴄʟᴏsᴇ 🙈")
         await query.message.delete()
     elif query.data == "get_trail":
         user_id = query.from_user.id
