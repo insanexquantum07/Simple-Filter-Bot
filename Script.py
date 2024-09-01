@@ -452,7 +452,8 @@ Aᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴅs:
 ©Infinity Botz"""
     
 
-     TAMIL_INFO = """
+
+    TAMIL_INFO = """
 ஏய் <a href='tg://settings'>ᴍʏ ғʀɪᴇɴᴅ</a> 
 
 
@@ -478,6 +479,7 @@ Aᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴅs:
  Exp: /set_tutorial video link
 
 மேலும் உங்கள் குழுவில் பயிற்சி வீடியோ தொகுப்பு ஆகிடும்..."""
+
 
     ENGLISH_INFO = """
 Hey <a href='tg://settings'>ᴍʏ ғʀɪᴇɴᴅ</a> 
