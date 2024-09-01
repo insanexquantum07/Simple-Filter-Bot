@@ -2081,7 +2081,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
     elif query.data == "fb_insta_dl":
         buttons = [[
             InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ', url="telegram.me/mpbotzsupport_bot"),
-            InlineKeyboardButton('ᴜᴩᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ', url="telegram.me/infinitu_botzz")
+            InlineKeyboardButton('ᴜᴩᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ', url="telegram.me/infinity_botzz")
         ],[
             InlineKeyboardButton('ʙᴀᴄᴋ', callback_data='help'),
             InlineKeyboardButton('Cʟᴏsᴇ', callback_data='close_data')
