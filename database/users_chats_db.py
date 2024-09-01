@@ -1,7 +1,3 @@
-# Don't Remove Credit @VJ_Botz
-# Subscribe YouTube Channel For Amazing Bot @Tech_VJ
-# Ask Doubt on telegram @KingVJ01
-
 import re
 from pymongo.errors import DuplicateKeyError
 import motor.motor_asyncio
@@ -178,6 +174,10 @@ class Database:
 
     async def delete_user(self, user_id):
         await self.col.delete_many({'id': int(user_id)})
+
+    async def delete_chat(self, grp_id):
+        await self.grp.delete_many({'id': int(grp_id)})
+        
 
 
     async def get_banned(self):
