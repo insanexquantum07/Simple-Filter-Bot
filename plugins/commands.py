@@ -174,29 +174,29 @@ async def start(client, message):
                     return 
         else:
             if PREMIUM_AND_REFERAL_MODE == True:
-            buttons = [[
-                InlineKeyboardButton('⇆ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘs ⇆', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
-            ],[
-                InlineKeyboardButton('• ᴇᴀʀɴ ᴍᴏɴᴇʏ •', callback_data="shortlink_info"),
-                InlineKeyboardButton('• ꜱᴜᴩᴩᴏʀᴛ •', callback_data="infinity_support")
-            ],[
-                InlineKeyboardButton('• ʜᴇʟᴩ •', callback_data='help'),
-                InlineKeyboardButton('• ᴀʙᴏᴜᴛ •', callback_data='about')
-            ],[
-                InlineKeyboardButton('🔻 ɢᴇᴛ sᴜʙsᴄʀɪᴘᴛɪᴏɴ 🔻', callback_data='subscription')
-            ]]
-        else:
-            buttons = [[
-                InlineKeyboardButton('⇆ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘs ⇆', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
-            ],[
-                InlineKeyboardButton('• ᴇᴀʀɴ ᴍᴏɴᴇʏ •', callback_data="shortlink_info"),
-                InlineKeyboardButton('• ꜱᴜᴩᴩᴏʀᴛ •', callback_data="infinity_support")
-            ],[
-                InlineKeyboardButton('• ʜᴇʟᴩ •', callback_data='help'),
-                InlineKeyboardButton('• ᴀʙᴏᴜᴛ •', callback_data='about')
-            ],[
-                InlineKeyboardButton('🔻 ɢᴇᴛ sᴜʙsᴄʀɪᴘᴛɪᴏɴ 🔻', callback_data='subscription')
-            ]]
+                buttons = [[
+                    InlineKeyboardButton('⇆ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘs ⇆', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
+                ],[
+                    InlineKeyboardButton('• ᴇᴀʀɴ ᴍᴏɴᴇʏ •', callback_data="shortlink_info"),
+                    InlineKeyboardButton('• ꜱᴜᴩᴩᴏʀᴛ •', callback_data="infinity_support")
+                ],[
+                    InlineKeyboardButton('• ʜᴇʟᴩ •', callback_data='help'),
+                    InlineKeyboardButton('• ᴀʙᴏᴜᴛ •', callback_data='about')
+                ],[
+                    InlineKeyboardButton('🔻 ɢᴇᴛ sᴜʙsᴄʀɪᴘᴛɪᴏɴ 🔻', callback_data='subscription')
+                ]]
+            else:
+                buttons = [[
+                    InlineKeyboardButton('⇆ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘs ⇆', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
+                ],[
+                    InlineKeyboardButton('• ᴇᴀʀɴ ᴍᴏɴᴇʏ •', callback_data="shortlink_info"),
+                    InlineKeyboardButton('• ꜱᴜᴩᴩᴏʀᴛ •', callback_data="infinity_support")
+                ],[
+                    InlineKeyboardButton('• ʜᴇʟᴩ •', callback_data='help'),
+                    InlineKeyboardButton('• ᴀʙᴏᴜᴛ •', callback_data='about')
+                ],[
+                    InlineKeyboardButton('🔻 ɢᴇᴛ sᴜʙsᴄʀɪᴘᴛɪᴏɴ 🔻', callback_data='subscription')
+                ]]
             if CLONE_MODE == True:
                 buttons.append([InlineKeyboardButton('🤖 Cʀᴇᴀᴛᴇ Yᴏᴜʀ Oᴡɴ Cʟᴏɴᴇ Bᴏᴛ 🤖', callback_data='clone')])
             reply_markup = InlineKeyboardMarkup(buttons)
