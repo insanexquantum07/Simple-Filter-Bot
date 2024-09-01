@@ -74,7 +74,7 @@ async def start():
     await TechVJBot.send_message(chat_id=LOG_CHANNEL, text=script.RESTART_TXT.format(me.mention, today, time))
     await TechVJBot.send_message(chat_id=SUPPORT_CHAT_ID, text=f"<b>{me.mention} ʀᴇsᴛᴀʀᴛᴇᴅ 🤖</b>")
     for admin in ADMINS:
-        await TechVJBot.send_message(chat_id=admin, text=f"<b>๏[-ิ_•ิ]๏ {me.mention} ʙᴏᴛ ʀᴇsᴛᴀʀᴛᴇᴅ ✅</b>")
+        await TechVJBot.send_message(chat_id=admin, text=f"<b>๏[-ิ_•ิ]๏ {me.mention} ʀᴇsᴛᴀʀᴛᴇᴅ ✅</b>")
             
     
     if CLONE_MODE == True:
