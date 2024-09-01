@@ -1,8 +1,3 @@
-# Don't Remove Credit @VJ_Botz
-# Subscribe YouTube Channel For Amazing Bot @Tech_VJ
-# Ask Doubt on telegram @KingVJ01
-
-
 import os
 import asyncio
 from pyrogram import Client, filters
@@ -11,7 +6,7 @@ from telegraph import upload_file
 from utils import get_file_id
 
 
-@Client.on_message(filters.command("telegraph") & filters.private)
+@Client.on_message(filters.command("tgp") & filters.private)
 async def telegraph_upload(bot, update):
     t_msg = await bot.ask(chat_id = update.from_user.id, text = "Now Send Me Your Photo Or Video Under 5MB To Get Telegraph Link.")
   #  if not replied:
