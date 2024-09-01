@@ -10,21 +10,19 @@ class script(object):
     HELP_TXT = """<b>ʜᴇʏ {}
 ʜᴇʀᴇ ɪs ᴛʜᴇ ᴅᴇᴛᴀɪʟᴇᴅ ᴅᴇᴛᴀɪʟs ғᴏʀ ᴏᴜʀ ʙᴏᴛ</b>"""
 
-    ABOUT_TXT = """<b><blockquote>⍟───[ MY ᴅᴇᴛᴀɪʟꜱ ]───⍟</blockquote>
+    ABOUT_TXT = """<b><blockquote>⍟───[ <a href='https://t.me/hd_movies_hub01/7'>ᴀʙᴏᴜᴛ ʙᴏᴛ</a> ]───⍟</blockquote>
     
 ‣ ᴍʏ ɴᴀᴍᴇ : <a href=https://t.me/{}>{}</a>
-‣ ᴍʏ ʙᴇsᴛ ғʀɪᴇɴᴅ : <a href='tg://settings'>ᴛʜɪs ᴘᴇʀsᴏɴ</a> 
-‣ ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://t.me/kingvj01'>ɪɴғɪɴɪᴛʏ ʙᴏᴛᴢ</a> 
+‣ ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://t.me/infinity_botzz'>ɪɴғɪɴɪᴛʏ ʙᴏᴛᴢ</a> 
 ‣ ʟɪʙʀᴀʀʏ : <a href='https://docs.pyrogram.org/'>ᴘʏʀᴏɢʀᴀᴍ</a> 
 ‣ ʟᴀɴɢᴜᴀɢᴇ : <a href='https://www.python.org/download/releases/3.0/'>ᴘʏᴛʜᴏɴ 3</a> 
 ‣ ᴅᴀᴛᴀ ʙᴀsᴇ : <a href='https://www.mongodb.com/'>ᴍᴏɴɢᴏ ᴅʙ</a> 
-‣ ʙᴏᴛ sᴇʀᴠᴇʀ : <a href='https://heroku.com'>ᴋᴏʏᴇʙ</a> 
-‣ ʙᴜɪʟᴅ sᴛᴀᴛᴜs : ᴠ2.7.1 [sᴛᴀʙʟᴇ]></b>"""
+‣ ʙᴏᴛ sᴇʀᴠᴇʀ : <a href='https://koyeb.com'>ᴋᴏʏᴇʙ</a> 
+‣ ʙᴜɪʟᴅ sᴛᴀᴛᴜs : ᴠ-2.7.5 [sᴛᴀʙʟᴇ]></b>"""
 
     CLONE_ABOUT_TXT = """<b><blockquote>⍟───[ ᴍʏ ᴀʙᴏᴜᴛ ]───⍟</blockquote>
     
 ‣ ᴍʏ ɴᴀᴍᴇ : {}
-‣ ᴍʏ ʙᴇsᴛ ғʀɪᴇɴᴅ : <a href='tg://settings'>ᴛʜɪs ᴘᴇʀsᴏɴ</a> 
 ‣ ᴄʟᴏɴᴇᴅ ғʀᴏᴍ : <a href=https://t.me/{}>{}</a>
 ‣ ʟɪʙʀᴀʀʏ : <a href='https://docs.pyrogram.org/'>ᴘʏʀᴏɢʀᴀᴍ</a> 
 ‣ ʟᴀɴɢᴜᴀɢᴇ : <a href='https://www.python.org/download/releases/3.0/'>ᴘʏᴛʜᴏɴ 3</a> 
@@ -62,10 +60,6 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 • /del - <code>ᴅᴇʟᴇᴛᴇ ᴀ ꜱᴘᴇᴄɪꜰɪᴄ ꜰɪʟᴛᴇʀ ɪɴ ᴀ ᴄʜᴀᴛ</code>
 • /delall - <code>ᴅᴇʟᴇᴛᴇ ᴛʜᴇ ᴡʜᴏʟᴇ ꜰɪʟᴛᴇʀꜱ ɪɴ ᴀ ᴄʜᴀᴛ (ᴄʜᴀᴛ ᴏᴡɴᴇʀ ᴏɴʟʏ)</code>"""
 
-    # Don't Remove Credit @VJ_Botz
-# Subscribe YouTube Channel For Amazing Bot @Tech_VJ
-# Ask Doubt on telegram @KingVJ01
-
     BUTTON_TXT = """ʜᴇʟᴘ: <b>ʙᴜᴛᴛᴏɴꜱ</b>
 - ᴛʜɪꜱ ʙᴏᴛ ꜱᴜᴘᴘᴏʀᴛꜱ ʙᴏᴛʜ ᴜʀʟ ᴀɴᴅ ᴀʟᴇʀᴛ ɪɴʟɪɴᴇ ʙᴜᴛᴛᴏɴꜱ.
 <b>ɴᴏᴛᴇ:</b>
@@ -99,9 +93,6 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 • /disconnect  - <code>ᴅɪꜱᴄᴏɴɴᴇᴄᴛ ꜰʀᴏᴍ ᴀ ᴄʜᴀᴛ</code>
 • /connections - <code>ʟɪꜱᴛ ᴀʟʟ ʏᴏᴜʀ ᴄᴏɴɴᴇᴄᴛɪᴏɴꜱ</code>"""
 
-    # Don't Remove Credit @VJ_Botz
-# Subscribe YouTube Channel For Amazing Bot @Tech_VJ
-# Ask Doubt on telegram @KingVJ01
     GROUP_TXT = """
 <b>⍟ ᴄʜᴀɴɴᴇʟs ᴀɴᴅ ɢʀᴏᴜᴘs ᴍᴏᴅᴜʟᴇ ⍟</b>
 
@@ -113,29 +104,21 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
     EXTRAMOD_TXT = """ʜᴇʟᴘ: Exᴛʀᴀ Mᴏᴅᴜʟᴇs
 <b>ɴᴏᴛᴇ:</b>
 ᴀʟʟ ғᴇᴀᴛᴜʀᴇs ᴏғ ᴛʜɪs ʙᴏᴛ ᴀʀᴇ ʟɪsᴛᴇᴅ ʙᴇʟᴏᴡ. ғᴏʀ ᴍᴏʀᴇ ᴜᴘᴅᴀᴛᴇs ᴏʀ ᴍᴏʀᴇ ғᴇᴀᴛᴜʀᴇs ʀᴇǫᴜᴇsᴛ ᴘʟᴇᴀsᴇ ᴊᴏɪɴ ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ.
- <b>✯ ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href=https://t.me/KingVj01>°ɪɴғɪɴɪᴛʏ ʙᴏᴛᴢ°/a></b>
+ <b>✯ ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href='https://t.me/infinity_botzz'>°ɪɴғɪɴɪᴛʏ ʙᴏᴛᴢ°/a></b>
   
- <b>✯ ғᴇᴀᴛᴜʀᴇ ʀᴇǫᴜᴇsᴛ : <a href=https://t.me/vj_bots>ᴍʀ ɪɴғɪɴɪᴛʏ</a></b> 
+ <b>✯ ғᴇᴀᴛᴜʀᴇ ʀᴇǫᴜᴇsᴛ : <a href=https://t.me/talk_mrs_bot>ᴍʀ ɪɴғɪɴɪᴛʏ</a></b> 
   
- •/id - <code>ɢᴇᴛ ɪᴅ ᴏꜰ ᴀ ꜱᴘᴇᴄɪꜰɪᴇᴅ ᴜꜱᴇʀ.</ 
- code> 
-  
+ •/id - <code>ɢᴇᴛ ɪᴅ ᴏꜰ ᴀ ꜱᴘᴇᴄɪꜰɪᴇᴅ ᴜꜱᴇʀ.</code> 
  •/info  - <code>ɢᴇᴛ ɪɴꜰᴏʀᴍᴀᴛɪᴏɴ ᴀʙᴏᴜᴛ ᴀ ᴜꜱᴇʀ.</code> 
-  
- •/song - Download any song [<code>example /song vaa vaathi song</code>] 
-  
- •/telegraph - <code>Telegraph generator sen under 5MB video or photo I give telegraph link</code> 
-  
- •/tts - <code>This command usage text to voice converter</code> 
-  
- •/video - This command usage any YouTube video download hd [<code>example /video https://youtu.be/Aiue8PMuD-k</code>]
-
-•/font - This command usage stylish and cool font generator [<code>example /font hi</code>]"""
+ •/song - ᴅᴏᴡɴʟᴏᴀᴅ ᴀɴʏ sᴏɴɢ ғʀᴏᴍ ʏᴏᴜᴛᴜʙᴇ[<code>ᴇxᴀᴍᴘʟᴇ /song vaa vaathi song</code>] 
+ •/tgp - <code>ɢᴇᴛ ᴛᴇʟᴇɢʀᴀᴘʜ ʟɪɴᴋ ᴜɴᴅᴇʀ 5ᴍʙ ᴘʜᴏᴛᴏ ᴏʀ ᴠɪᴅᴇᴏ.</code> 
+ •/tts - <code>ᴜsᴇ ᴛʜɪs ᴛᴏ ᴄʜᴀɴɢᴇ ᴛᴇxᴛ ᴛᴏ sᴘᴇᴇᴄʜ.</code> 
+ •/video - ᴅᴏᴡɴʟᴏᴀᴅ ᴀɴʏ ʏᴏᴜᴛᴜʙᴇ ᴠɪᴅᴇᴏ [<code>example /video https://youtu.be/Aiue8PMuD-k</code>]
+ •/font - ɢᴇᴛ ᴄᴏᴏʟ & sᴛʏʟɪsᴛ ғᴏɴᴛs [<code>example /font hi</code>]"""
 
 
     ADMIN_TXT = """ʜᴇʟᴘ: ᴀᴅᴍɪɴ ᴍᴏᴅs
-<b>ɴᴏᴛᴇ:</b>
-Tʜɪs Mᴏᴅᴜʟᴇ Oɴʟʏ Wᴏʀᴋs Fᴏʀ Mʏ Aᴅᴍɪɴs
+<b>ɴᴏᴛᴇ:</b> Tʜɪs Mᴏᴅᴜʟᴇ Oɴʟʏ Wᴏʀᴋs Fᴏʀ Mʏ Aᴅᴍɪɴs
 Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 • /logs - <code>ᴛᴏ ɢᴇᴛ ᴛʜᴇ ʀᴇᴄᴇɴᴛ ᴇʀʀᴏʀꜱ</code>
 • /stats - <code>ᴛᴏ ɢᴇᴛ ꜱᴛᴀᴛᴜꜱ ᴏꜰ ꜰɪʟᴇꜱ ɪɴ ᴅʙ. [Tʜɪs Cᴏᴍᴍᴀɴᴅ Cᴀɴ Bᴇ Usᴇᴅ Bʏ Aɴʏᴏɴᴇ]</code>
@@ -213,7 +196,7 @@ Nᴀᴍᴇ - {}
 
     SHORTLINK_INFO = """
 
-🫵 Select Your Language And Earn Money 💰"""
+🫵 sᴇʟᴇᴄᴛ ʏᴏᴜʀ ᴅᴇsɪʀᴇᴅ ʟᴀɴɢᴜᴀɢᴇ & sᴛᴀʀᴛ ᴇᴀʀɴɪɴɢ ᴍᴏɴᴇʏ ғʀᴏᴍ ɴᴏᴡ 💰"""
 
     REQINFO = """
 ⚠ ɪɴꜰᴏʀᴍᴀᴛɪᴏɴ ⚠
@@ -225,7 +208,8 @@ Nᴀᴍᴇ - {}
     SELECT = """sᴇʟᴇᴄᴛ ʏᴏᴜʀ ᴘʀᴇғᴇʀʀᴇᴅ ʟᴀɴɢᴜᴀɢᴇ, ǫᴜᴀʟɪᴛʏ, sᴇᴀsᴏɴ ᴀɴᴅ ᴇᴘɪsᴏᴅᴇ"""
 
     SINFO = """
-🫣 For Movie Join First Then Click On Try Again Button 😅"""
+⚠️ ᴅᴜᴇ ᴛᴏ ᴏᴠᴇʀʟᴏᴀᴅ ᴏɴʟʏ ᴄʜᴀɴɴᴇʟ ꜱᴜʙꜱᴄʀɪʙᴇʀꜱ ᴄᴀɴ ᴜꜱᴇ ᴛʜᴇ ʙᴏᴛ 🪄
+♻️ ᴊᴏɪɴ ᴏᴜʀ ᴄʜᴀɴɴᴇʟ ᴛᴏ ᴜꜱᴇ ᴛʜᴇ ʙᴏᴛ & ᴛᴀᴩ ᴏɴ *ᴛʀʏ ᴀɢᴀɪɴ*"""
 
     NORSLTS = """ 
 ★ #𝗡𝗼𝗥𝗲𝘀𝘂𝗹𝘁𝘀 ★
@@ -236,7 +220,7 @@ Nᴀᴍᴇ - {}
 
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
-    CAPTION = """<b>📂Fɪʟᴇɴᴀᴍᴇ : {file_name}
+    CAPTION = """<b>📂Fɪʟᴇɴᴀᴍᴇ : [{file_name}](https://t.me/infinity_botzz)
 
 <b> Size ⚙️: {file_size}</b>""" 
 
@@ -711,15 +695,13 @@ Also your tutorial will be Added Your Group..."""
     
 
     DEVELOPER_TXT = """
-special Thanks To ❤️ Developers -
+ᴛʜᴀɴᴋs ᴛᴏ ᴀʟʟ ᴅᴇᴠᴇʟᴏᴘᴇʀs & ᴄᴏᴅᴇʀs ᴡʜᴏ ᴄᴏɴᴛʀɪʙᴜᴛᴇᴅ ᴛʜɪs ʀᴇᴘᴏ ᴛᴏ ᴍᴀᴋᴇ ʟɪᴋᴇ ᴛʜɪs.
 
--Dev 1 [Owner of this bot ]<a href='https://t.me/KingVj01'>VJ</a>
+• ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ <a href='https://t.me/KingVj01'>ᴍʀ. ɪɴғɪɴɪᴛʏ</a>
+• ᴘᴏᴡᴇʀᴇᴅ ʙʏ <a href='https://t.me/vjbots_bot'>ɪɴғɪɴɪᴛʏ ʙᴏᴛᴢ</a>
+• sᴘᴏɴsᴏʀᴇᴅ ʙʏ <a href='https://t.me/vj_botz>ʜᴅ ᴍᴏᴠɪᴇs ʜᴜʙ</a>
 
--Dev 2 <a href='https://t.me/vjbots_bot'>VJ</a>
-
--Dev 3 <a href='https://t.me/vj_botz>VJ Botz</a>
-
-- Dev 4 <a href='https://t.me/vj_bots'>TEAM VJ</a>
+       ~ ᴛᴇᴀᴍ ©ɪɴғɪɴɪᴛʏ ʙᴏᴛᴢ
 """
 
     RENAME_TXT = """
@@ -744,14 +726,10 @@ Example:- /set_caption 📕 File Name: {filename}
 •> /rename - send any file and click rename option and type new file name and \nthen select [ document, video, audio ]👈 choice this.
 """
 
-    STREAM_TXT = """<b><u>HOW TO GET STREAM AND DOWNLOAD LINK :</u>
+    STREAM_TXT = """<b><u>ʜᴏᴡ ᴛᴏ ɢᴇᴛ sᴛʀᴇᴀᴍ & ғᴀsᴛ ᴅᴏᴡɴʟᴏᴀᴅ ʟɪɴᴋs :</u>
 
 /stream - ɢᴇᴛ sᴛʀᴇᴀᴍᴀʙʟᴇ ᴀɴᴅ ᴅᴏᴡɴʟᴏᴀᴅᴀʙʟᴇ ʟɪɴᴋ ᴏғ ᴀɴʏ ғɪʟᴇ</b>"""
 
-
-# Don't Remove Credit @VJ_Botz
-# Subscribe YouTube Channel For Amazing Bot @Tech_VJ
-# Ask Doubt on telegram @KingVJ01
-
-
+    INSTA_TXT = """📯 ᴊᴜsᴛ ᴄᴏᴘʏ ᴀɴʏ ᴠɪᴅᴇᴏ ʟɪɴᴋ ғʀᴏᴍ ғᴀᴄᴇʙᴏᴏᴋ ᴏʀ ɪɴsᴛᴀɢʀᴀᴍ ᴀɴᴅ sᴇɴᴅ ᴛᴏ ᴏᴜʀ ʙᴏᴛ.❇️
     
+    ᴊᴏɪɴ ᴏᴜʀ ᴄʜᴀɴɴᴇʟ & sʜᴀʀᴇ ᴡɪᴛʜ ʏᴏᴜʀ ғᴀᴍɪʟʏ ᴀɴᴅ ғʀɪᴇɴᴅs."""
