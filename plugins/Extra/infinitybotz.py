@@ -2,9 +2,9 @@
 #stealing credit doesn't mske you developer
 
 from pyrogram import filters, Client as Mbot
-import bs4, requests,re,asyncio
-import wget,os,traceback
-from bot import LOG_GROUP, DUMP_GROUP
+import bs4, requests, re, asyncio
+import wget, os, traceback
+from info import LOG_GROUP, DUMP_GROUP
 
 @Mbot.on_message(filters.regex(r'https?://.*facebook[^\s]+') & filters.incoming,group=-6)
 async def link_handler(Mbot, message):
