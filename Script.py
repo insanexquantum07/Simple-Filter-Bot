@@ -702,9 +702,9 @@ Also your tutorial will be Added Your Group..."""
     DEVELOPER_TXT = """
 ᴛʜᴀɴᴋs ᴛᴏ ᴀʟʟ ᴅᴇᴠᴇʟᴏᴘᴇʀs & ᴄᴏᴅᴇʀs ᴡʜᴏ ᴄᴏɴᴛʀɪʙᴜᴛᴇᴅ ᴛʜɪs ʀᴇᴘᴏ ᴛᴏ ᴍᴀᴋᴇ ʟɪᴋᴇ ᴛʜɪs.
 
-• ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ <a href='https://t.me/KingVj01'>ᴍʀ. ɪɴғɪɴɪᴛʏ</a>
-• ᴘᴏᴡᴇʀᴇᴅ ʙʏ <a href='https://t.me/vjbots_bot'>ɪɴғɪɴɪᴛʏ ʙᴏᴛᴢ</a>
-• sᴘᴏɴsᴏʀᴇᴅ ʙʏ <a href='https://t.me/vj_botz>ʜᴅ ᴍᴏᴠɪᴇs ʜᴜʙ</a>
+• ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ <a href='https://t.me/talk_mrs_bot'>ᴍʀ. ɪɴғɪɴɪᴛʏ</a>
+• ᴘᴏᴡᴇʀᴇᴅ ʙʏ <a href='https://t.me/infinity_botzz'>ɪɴғɪɴɪᴛʏ ʙᴏᴛᴢ</a>
+• sᴘᴏɴsᴏʀᴇᴅ ʙʏ <a href='https://t.me/hd_movies_hub01>ʜᴅ ᴍᴏᴠɪᴇs ʜᴜʙ</a>
 
        ~ ᴛᴇᴀᴍ ©ɪɴғɪɴɪᴛʏ ʙᴏᴛᴢ
 """
